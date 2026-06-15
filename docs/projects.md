@@ -3,7 +3,7 @@ title: Chameleon: Towards Automated and Reliable Time-Series Anomaly Detection
 funding: Pending
 role: Principal Investigator
 value: $--
-years: 2026-
+years: 2025-
 image: assets/img/research/01.png
 link: research-p1.html
 desc: This project develops Chameleon, a next-generation open-source system for automated time-series anomaly detection that supports the full pipeline from data ingestion to interpretable alerts. It combines foundation-model-empowered detection, automated model selection, and anomaly detection optimization to improve accuracy, robustness, and efficiency across diverse real-world domains.
@@ -23,11 +23,11 @@ desc: This project develops SHIELD, a clinically grounded framework for intraope
 ---
 
 ## Project 3
-title: Urban Dynamics and Smart Infrastructure
-funding: U.S. Department of Energy
-role: Co-Investigator
-value: $600,000
-years: 2023–2026
-image: assets/img/research/03.jpg
+title: HERMIS: High-Efficiency StReaming Multi-vIew MTS Clustering 
+funding: Pending
+role: Principal Investigator
+value: $--
+years: 2026–
+image: assets/img/research/03.png
 link: research-p3.html
-desc: The project studies temporal energy consumption and emissions patterns in cities, building predictive frameworks for sustainable infrastructure.
+desc: This project develops HERMIS, a principled clustering framework for large-scale, dynamic, and multiview multivariate time series. Inspired by the Greek messenger god Hermes, the system aims to rapidly organize continuous data streams into compact and interpretable behavioral patterns. It integrates alignment-aware comparison, multi-view representation learning, and streaming cluster evolution to support robust discovery, monitoring, and decision-making in complex scientific and infrastructure systems.
