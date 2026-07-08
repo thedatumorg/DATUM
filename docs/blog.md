@@ -4,7 +4,7 @@ date: 03 Jul 2026
 author: Mingyi Huang
 category: Research News
 image: assets/img/blog/hydra-paper/github-logo.png
-link: blog-html/hydra-blog-datum-style.html
+link: HYDRA.html
 excerpt: HYDRA introduces a multi-level hierarchy-driven approach for robust time-series anomaly detection. The key insight is to avoid relying on contaminated anomalous subsequences as normal references, and instead build hierarchical normal reference pools that adapt across diverse anomaly types.
 
 ---
